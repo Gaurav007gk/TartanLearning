@@ -6,5 +6,7 @@ public class StartJava {
         String s="Game";
         System.out.println(s);
 
+
+
         }
 }
